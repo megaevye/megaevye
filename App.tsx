@@ -11,8 +11,8 @@ import {
 
 // --- SUPABASE AYARLARI ---
 // Bu bilgileri Supabase panelinden (Settings > API) alıp tırnak içine yapıştırın
-const SUPABASE_URL = "https://BURAYA_PROJE_URL.supabase.co"; 
-const SUPABASE_KEY = "BURAYA_ANON_KEY";
+const SUPABASE_URL = "https://daregbnkyngslxqfucii.supabase.co"; 
+const SUPABASE_KEY = "sb_publishable_TmsPTaHbpPgMmrkBKy0aGg_aC2cGKj9";
 const supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
 
 const PRICE_PER_KM = 40; // KM başı 40 TL
