@@ -1,0 +1,7 @@
+{
+  "name": "YolArkadaşım - Canlı Konum Paylaşımı",
+  "description": "Araç sahipleri ve yolcuları canlı konum tabanlı buluşturan gizli ilan sistemi.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

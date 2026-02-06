@@ -1,0 +1,13 @@
+{
+  "name": "yolarkadasim-canli",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "leaflet": "^1.9.4",
+    "react-leaflet": "^5.0.0",
+    "lucide-react": "^0.563.0",
+    "@supabase/supabase-js": "^2.39.7"
+  }
+}
